@@ -1,0 +1,111 @@
+.navigation_container, .intro, .contact_info, .container_c {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:snow;
+  text-align: center;
+  border: 5px double snow;
+}
+.wrap {
+  background-image: url('shootingblue.jpeg');
+  background-position: fixed;
+  background-size: cover;
+}
+
+.container_a {
+  background-image: url('wallflower.webp');
+  background-position: left;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:snow;
+  border: 5px double snow;
+  text-align: unset;
+  margin: 10px;
+}
+
+.container_b {
+  background-image: url('spacerock.jpeg');
+  background-position: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:snow;
+  border: 5px double snow;
+  text-align: left;
+  margin: 10px;
+}
+.links {
+  background-image: url('circle.jpeg');
+  background-position: center;
+  border: 5px double snow;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.my_skills {
+  text-align: left;
+}
+
+.the_goods, .summary {
+  margin: 10px;
+}
+
+.project_title {
+  color:snow;
+}
+.href {
+  text-align: center;
+  }
+  .nav, a {
+    color:rgb(219, 221, 223);
+  }
+.intro {
+  color:rgb(219, 221, 223);
+  text-align: center;
+}
+.links {
+  padding: 20px;
+  text-align: center;
+}
+.about_link {
+  padding: 20px;
+  margin: 20px;
+}
+.project_link {
+  padding: 20px;
+  margin: 20px;
+}
+.contact_link {
+  padding: 20px;
+  margin: 20px;
+}
+.contact_info, .my_skills, .skills_list, .contact_me, .contact_form {
+  color:rgb(219, 221, 223);
+  text-align: center;
+}
+
+.navigation_links {
+  text-align: center;
+}
+
+.photo {
+  height: 70px;
+  width: 100px;
+  float: left;
+  padding: 15px;
+  
+}
+
+.project_title {
+  text-align: justify;
+  border: 5px double snow;
+}
+
+
+.selfie {
+  border-radius: 50%;
+  height: 70%;
+  width: 20%;
+  float: left;
+}
+
+label, textarea {
+  padding: 5px;
+  text-align: left;
+}
