@@ -27,7 +27,7 @@ export default function About() {
                 </h1>
                 <p>
                     My experience is in full stack object oriented programming.
-                    Recently I have received my web development certification through Openclassrooms. An online program based 
+                    Recently I have received my web development certification through Openclassrooms, an online program based 
                     in Paris, France. Through this program I have been certified in multiple languages and have built many projects.
                      Let me put my skills to work for you.  
                 </p>
