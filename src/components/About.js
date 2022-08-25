@@ -1,6 +1,6 @@
 import React from 'react';
 import { selfs } from '../data';
-import "../Resume.docx";
+import link from "../linkedin.png";
 
 export default function About() {
     return(
@@ -28,16 +28,17 @@ export default function About() {
                 <p>
                     My experience is in full stack object oriented programming.
                     Recently I have received my web development certification through Openclassrooms. An online program based 
-                    in Paris, France. Through them I have learned multiple laguages and have built many projects.
-                    Including designing databases in MySQL. Let me put my skills to work for you.  
+                    in Paris, France. Through this program I have been certified in multiple languages and have built many projects.
+                     Let me put my skills to work for you.  
                 </p>
             </div>
                 <div className="links">
                 <a href="https://www.linkedin.com/in/colt-hafer-b4829487" className="linkedIn_link">
-                    Linked In
+                    <img src={link} alt="LinkedIn"/>
                 </a>
                 </div>
             </div>
         </section>
     );
+}
 }
