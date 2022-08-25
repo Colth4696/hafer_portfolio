@@ -6,7 +6,7 @@ export default function Projects() {
         <section id="projects" className="recent_projects">
             <div className="container_a">
             <h1 className="the_goods">
-                Apps I've Built
+                Apps I Have Built
             </h1>
             <p className="summary">
                 These are some samples of the projects I have completed.
