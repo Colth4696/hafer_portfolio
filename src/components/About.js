@@ -22,14 +22,12 @@ export default function About() {
             <div className="intro">
                 <h1>
                 Hi, I'm Colt.
-                <br/>
-                I like to build amazing apps.
                 </h1>
-                <p>
-                    My experience is in full stack object oriented programming.
-                    Recently I have received my web development certification through Openclassrooms, an online program based 
-                    in Paris, France. Through this program I have been certified in multiple languages and have built many projects.
-                     Let me put my skills to work for you.  
+                <br/>
+                <p> 
+                    I like to build amazing apps using object oriented programming. I recently received my web development
+                    certification through OpenClassrooms, during which I built many porjects and became certified in many languages. 
+                    Let me pu my skills to work for you. 
                 </p>
             </div>
                 <div className="links">
