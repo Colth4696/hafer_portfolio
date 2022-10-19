@@ -3,7 +3,7 @@ import bike from "./BikeRace.png";
 import express from "./expressfoods.png";
 import resume from "./Resume.docx";
 import face from "./selfie.jpg";
-import move from "./MnG.png";
+import JSCounter from "./JSCounter.png";
 import grind from "./Boff.png";
 
 export const projects = [
@@ -37,12 +37,12 @@ export const projects = [
       image: express,
       link:"https://github.com/Colth4696/MySQL",
     },
-    {
-      title:"Track your fitness habits",
-      subtitle:"HTML, CSS, Bootstrap, Ruby on Rails, Devise",
-      description:"Use Ruby with a database. Handle user logins securely with the Devise Rubygem. Create a Rails app. Perform basic programming tasks with Ruby.",
-      image: move,
-      link:"https://movengroove.herokuapp.com/",
+  {
+      title:"JS Counter",
+      subtitle:"JavaScript",
+      description:"Increment counter using buttons. Recording previious data.",
+      image: JSCounter,
+      link:"https://delicate-travesseiro-bc829f.netlify.app/",
     },
 
   ];
